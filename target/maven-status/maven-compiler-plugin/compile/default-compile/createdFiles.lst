@@ -1,0 +1,17 @@
+com\liza\domain\Ulica.class
+com\liza\controllers\KlijentController.class
+com\liza\domain\Broj.class
+com\liza\domain\Delatnost.class
+com\liza\domain\Mesto.class
+com\liza\domain\StavkaZahteva.class
+com\liza\controllers\ZahtevController.class
+com\liza\controllers\IndexController.class
+com\liza\domain\Klijent.class
+com\liza\db\DBBroker.class
+com\liza\domain\Pozicija.class
+com\liza\domain\PotencijalniKlijent.class
+com\liza\domain\Zaposleni.class
+com\liza\domain\OrganizacionaJedinica.class
+com\liza\util\IOperation.class
+com\liza\domain\Zahtev.class
+com\liza\domain\Model.class

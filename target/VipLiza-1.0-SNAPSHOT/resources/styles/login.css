@@ -1,0 +1,18 @@
+
+body {
+ 
+   background-position: center; 
+   background-color:white;
+   background-image: url("../images/logo.jpg");
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+  
+}
+
+
+
+ #footer p {
+     color:  #ABA5A5;
+     border-top-color: black;
+ }
+

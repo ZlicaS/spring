@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 27, 2019, 9:56:54 PM
+    Author     : lizasapsaj
+*/
+
+body {
+   background-color:black;
+   background-image: url("../images/kucninet_home_desk1.png");
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center; 
+}
+footer {
+  background-color:#242121;
+  position: fixed;
+  margin-top: 2%;
+  height: 5%;
+  width: 100%;
+  text-align: center;
+  font-size: 0.8em;
+  bottom: 0;
+}
+ #footer p {
+     color:  #ABA5A5;
+     border-top-color: black;
+ }
